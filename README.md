@@ -1,4 +1,4 @@
-##React Weather App
+## 'React Weather App'
 
 In the project directory, you can run:
 
